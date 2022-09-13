@@ -1,0 +1,24 @@
+.card-container{
+    max-width:250px;
+    background-color: rgb(230 234 240 / 73%);
+    border-radius:15px;
+    margin:15px;
+    font-family: 'Roboto Mono', monospace;}
+.flag{
+    width:250px;
+    /* height:200px; */
+    border-radius:15px 15px 0px 0px;
+}
+body{
+    background-color:rgb(183 192 205 / 73%);
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.information{
+    padding:10px;
+}
+.highlight{
+   font-weight:bold;
+}
